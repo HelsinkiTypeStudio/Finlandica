@@ -1,8 +1,8 @@
-Copyright (c) 2015, Helsinki Type Studio (Niklas Ekholm, Juho Hiilivirta, Jaakko Suomalainen) with Reserved Font Name Finlandica.
+Copyright 2022 Helsinki Type Studio (https://github.com/HelsinkiTypeStudio/Finlandica)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+https://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------
