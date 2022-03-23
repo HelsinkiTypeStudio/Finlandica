@@ -1,5 +1,5 @@
 {
-.appVersion = "1141";
+.appVersion = "3108";
 copyright = "Helsinki Type Studio";
 customParameters = (
 {
@@ -9,6 +9,23 @@ value = "Copyright (c) 2015, Helsinki Type Studio (Niklas Ekholm, Juho Hiilivirt
 {
 name = sampleText;
 value = "Finlandica embodies the typographic heritage of industry in freezing temperatures. Advanced aesthetics for an advanced economy: Utility combined with strong personality.";
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+},
+{
+Name = Width;
+Tag = wdth;
+},
+{
+Name = Custom;
+Tag = CUS1;
+}
+);
 }
 );
 date = "2018-08-15 16:17:21 +0000";
@@ -100,7 +117,8 @@ position = "{181, -34}";
 );
 horizontalStems = (
 78,
-72
+72,
+0
 );
 id = "3DBDB2C8-AF6E-4CF3-B71C-7D596AD599C8";
 italicAngle = 8;
@@ -112,7 +130,8 @@ GSOffsetVertical = 0;
 };
 verticalStems = (
 83,
-80
+80,
+0
 );
 weightValue = 400;
 xHeight = 500;
@@ -40523,11 +40542,12 @@ rightMetricsKey = nine;
 {
 color = 5;
 glyphname = zero.tf;
-lastChange = "2018-05-16 00:28:56 +0000";
+lastChange = "2022-03-23 12:55:11 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = zero;
 transform = "{1, 0, 0, 1, 40, 0}";
 }
@@ -40538,6 +40558,7 @@ width = 700;
 {
 components = (
 {
+alignment = -1;
 name = zero;
 transform = "{1, 0, 0, 1, 47, 0}";
 }
@@ -40599,11 +40620,12 @@ width = 700;
 {
 color = 7;
 glyphname = two.tf;
-lastChange = "2018-05-15 23:30:45 +0000";
+lastChange = "2022-03-23 12:55:11 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = two;
 transform = "{1, 0, 0, 1, 66, 0}";
 }
@@ -40614,6 +40636,7 @@ width = 700;
 {
 components = (
 {
+alignment = -1;
 name = two;
 transform = "{1, 0, 0, 1, 95, 0}";
 }
@@ -40626,11 +40649,12 @@ width = 700;
 {
 color = 7;
 glyphname = three.tf;
-lastChange = "2018-05-15 23:30:45 +0000";
+lastChange = "2022-03-23 12:55:11 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = three;
 transform = "{1, 0, 0, 1, 86, 0}";
 }
@@ -40641,6 +40665,7 @@ width = 700;
 {
 components = (
 {
+alignment = -1;
 name = three;
 transform = "{1, 0, 0, 1, 99, 0}";
 }
@@ -40653,11 +40678,12 @@ width = 700;
 {
 color = 7;
 glyphname = four.tf;
-lastChange = "2018-05-15 23:30:45 +0000";
+lastChange = "2022-03-23 12:55:11 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = four;
 transform = "{1, 0, 0, 1, 74, 0}";
 }
@@ -40668,6 +40694,7 @@ width = 700;
 {
 components = (
 {
+alignment = -1;
 name = four;
 transform = "{1, 0, 0, 1, 95, 0}";
 }
@@ -40680,11 +40707,12 @@ width = 700;
 {
 color = 7;
 glyphname = five.tf;
-lastChange = "2018-05-15 23:30:45 +0000";
+lastChange = "2022-03-23 12:55:11 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = five;
 transform = "{1, 0, 0, 1, 77, 0}";
 }
@@ -40695,6 +40723,7 @@ width = 700;
 {
 components = (
 {
+alignment = -1;
 name = five;
 transform = "{1, 0, 0, 1, 88, 0}";
 }
@@ -40707,11 +40736,12 @@ width = 700;
 {
 color = 7;
 glyphname = six.tf;
-lastChange = "2018-05-15 23:30:45 +0000";
+lastChange = "2022-03-23 12:55:11 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = six;
 transform = "{1, 0, 0, 1, 70, 0}";
 }
@@ -40722,6 +40752,7 @@ width = 700;
 {
 components = (
 {
+alignment = -1;
 name = six;
 transform = "{1, 0, 0, 1, 71, 0}";
 }
@@ -40734,11 +40765,12 @@ width = 700;
 {
 color = 7;
 glyphname = seven.tf;
-lastChange = "2018-05-15 23:30:45 +0000";
+lastChange = "2022-03-23 12:55:11 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = seven;
 transform = "{1, 0, 0, 1, 83, 0}";
 }
@@ -40749,6 +40781,7 @@ width = 700;
 {
 components = (
 {
+alignment = -1;
 name = seven;
 transform = "{1, 0, 0, 1, 76, 0}";
 }
@@ -40761,11 +40794,12 @@ width = 700;
 {
 color = 7;
 glyphname = eight.tf;
-lastChange = "2018-05-15 23:30:45 +0000";
+lastChange = "2022-03-23 12:55:11 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = eight;
 transform = "{1, 0, 0, 1, 42, 0}";
 }
@@ -40776,6 +40810,7 @@ width = 700;
 {
 components = (
 {
+alignment = -1;
 name = eight;
 transform = "{1, 0, 0, 1, 70, 0}";
 }
@@ -40788,11 +40823,12 @@ width = 700;
 {
 color = 7;
 glyphname = nine.tf;
-lastChange = "2018-05-15 23:30:45 +0000";
+lastChange = "2022-03-23 12:55:11 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = nine;
 transform = "{1, 0, 0, 1, 70, 0}";
 }
@@ -40803,6 +40839,7 @@ width = 700;
 {
 components = (
 {
+alignment = -1;
 name = nine;
 transform = "{1, 0, 0, 1, 71, 0}";
 }
