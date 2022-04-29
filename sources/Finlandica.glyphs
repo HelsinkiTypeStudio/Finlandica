@@ -256,7 +256,7 @@ sub j by j.ss01;
 labels = (
 {
 language = dflt;
-value = "";
+value = "No vertical stroke";
 }
 );
 tag = ss01;
@@ -14946,7 +14946,7 @@ color = 10;
 glyphname = rcommaaccent;
 kernLeft = n;
 kernRight = r;
-lastChange = "2022-04-29 13:14:40 +0000";
+lastChange = "2022-04-29 15:12:07 +0000";
 layers = (
 {
 layerId = "6DBC133B-A4A9-4EFF-965F-6B79E3B68C3E";

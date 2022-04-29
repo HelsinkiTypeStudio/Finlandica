@@ -253,6 +253,12 @@ sub i by i.ss01;
 sub idotless by idotless.ss01;
 sub j by j.ss01;
 ";
+labels = (
+{
+language = dflt;
+value = "No vertical stroke";
+}
+);
 tag = ss01;
 }
 );
