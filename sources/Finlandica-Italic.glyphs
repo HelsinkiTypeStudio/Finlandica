@@ -1,10 +1,6 @@
 {
-.appVersion = "3124";
+.appVersion = "3108";
 .formatVersion = 3;
-DisplayStrings = (
-"A/A.ss01/Aacute.ss01/Abreve.ss01/Acaron.ss01/Acircumflex.ss01/Adieresis.ss01/Agrave.ss01/Amacron.ss01/A.ss01/Aogonek.ss01/Aring.ss01/Atilde.ss01/AE.ss01/G.ss01/I.ss01/IJ.ss01/Iacute.ss01/Icircumflex.ss01/Idieresis.ss01/Idotaccent.ss01/Igrave.ss01/Imacron.ss01/Iogonek.ss01/J.ss01/Z.ss01/Zacute.ss01/Zcaron.ss01/Zdotaccent.ss01/i.ss01/idotless.ss01/iacute.ss01/icircumflex.ss01/idieresis.ss01/idotaccent.ss01/igrave.ss01/ij.ss01/imacron.ss01/iogonek.ss01/j.ss01",
-"G/G.ss01/Gbreve.ss01/Gcaron.ss01/Gcommaaccent.ss01/Gdotaccent.ss01/I.ss01/IJ.ss01/Iacute.ss01/Icircumflex.ss01/Idieresis.ss01/Idotaccent.ss01/Igrave.ss01/Imacron.ss01/I.ss01/Iogonek.ss01/J.ss01/Z.ss01/Zacute.ss01/Zcaron.ss01/Zdotaccent.ss01/i.ss01/idotless.ss01/iacute.ss01/icircumflex.ss01/idieresis.ss01/idotaccent.ss01/igrave.ss01/j.ss01/ij.ss01/imacron.ss01/iogonek.ss01/j.ss01"
-);
 axes = (
 {
 name = Weight;
@@ -294,7 +290,7 @@ sub j by j.ss01;
 labels = (
 {
 language = dflt;
-value = "No exrtra strokes";
+value = "No extra strokes";
 }
 );
 tag = ss01;
@@ -4628,7 +4624,7 @@ color = 4;
 glyphname = Iogonek.ss01;
 kernLeft = I;
 kernRight = I;
-lastChange = "2022-05-17 15:44:02 +0000";
+lastChange = "2022-05-19 07:49:05 +0000";
 layers = (
 {
 layerId = "3DBDB2C8-AF6E-4CF3-B71C-7D596AD599C8";
@@ -58595,5 +58591,5 @@ name = vStem1;
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 62;
+versionMinor = 63;
 }

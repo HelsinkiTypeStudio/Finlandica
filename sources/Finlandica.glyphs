@@ -1,5 +1,5 @@
 {
-.appVersion = "3124";
+.appVersion = "3108";
 .formatVersion = 3;
 axes = (
 {
@@ -16625,7 +16625,7 @@ color = 10;
 glyphname = rcommaaccent;
 kernLeft = n;
 kernRight = r;
-lastChange = "2022-05-17 15:41:45 +0000";
+lastChange = "2022-05-19 07:49:08 +0000";
 layers = (
 {
 layerId = "6DBC133B-A4A9-4EFF-965F-6B79E3B68C3E";
