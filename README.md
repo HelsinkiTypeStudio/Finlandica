@@ -10,3 +10,4 @@ Ink traps like cuts from a blunt ax, makes the typeface reliable in small sizes 
 
 The typeface is part of a toolbox of assets for the promotion of Finland and commissioned by the Prime minister's office and Business Finland.
 
+![finlandica specimen image](https://raw.githubusercontent.com/HelsinkiTypeStudio/Finlandica/master/documentation/finlandica-image-2.png)
