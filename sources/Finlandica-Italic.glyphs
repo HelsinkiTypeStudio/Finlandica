@@ -1,6 +1,9 @@
 {
-.appVersion = "3108";
+.appVersion = "3129";
 .formatVersion = 3;
+DisplayStrings = (
+"Łłolo"
+);
 axes = (
 {
 name = Weight;
@@ -37,7 +40,7 @@ name = "Variable Font Origin";
 value = "3DBDB2C8-AF6E-4CF3-B71C-7D596AD599C8";
 }
 );
-date = "2018-08-15 16:17:21 +0000";
+date = "2022-08-02 06:29:21 +0000";
 familyName = Finlandica;
 featurePrefixes = (
 {
@@ -5359,33 +5362,45 @@ color = 10;
 glyphname = Lslash;
 kernLeft = H;
 kernRight = L;
-lastChange = "2022-04-29 11:57:56 +0000";
+lastChange = "2022-08-02 06:28:31 +0000";
 layers = (
 {
 layerId = "3DBDB2C8-AF6E-4CF3-B71C-7D596AD599C8";
 shapes = (
 {
+pos = (20,0);
 ref = L;
 },
 {
-pos = (-116,119);
-ref = slashshortcomb;
+closed = 1;
+nodes = (
+(373,464,l),
+(384,538,l),
+(38,321,l),
+(28,247,l)
+);
 }
 );
-width = 452;
+width = 472;
 },
 {
 layerId = "6B2E1CAF-7E84-411F-9290-838331FE9C95";
 shapes = (
 {
+pos = (20,0);
 ref = L;
 },
 {
-pos = (-132,118);
-ref = slashshortcomb;
+closed = 1;
+nodes = (
+(400,452,l),
+(419,591,l),
+(31,346,l),
+(11,207,l)
+);
 }
 );
-width = 444;
+width = 464;
 }
 );
 unicode = 321;
@@ -14756,6 +14771,7 @@ nodes = (
 );
 };
 layerId = "6B2E1CAF-7E84-411F-9290-838331FE9C95";
+metricLeft = "=h";
 shapes = (
 {
 closed = 1;
@@ -15050,33 +15066,45 @@ color = 10;
 glyphname = lslash;
 kernLeft = h;
 kernRight = l;
-lastChange = "2022-04-29 11:57:56 +0000";
+lastChange = "2022-08-02 06:26:58 +0000";
 layers = (
 {
 layerId = "3DBDB2C8-AF6E-4CF3-B71C-7D596AD599C8";
 shapes = (
 {
+pos = (20,0);
 ref = l;
 },
 {
-pos = (-103,200);
-ref = slashshortcomb;
+closed = 1;
+nodes = (
+(315,464,l),
+(326,538,l),
+(46,362,l),
+(35,288,l)
+);
 }
 );
-width = 275;
+width = 306;
 },
 {
 layerId = "6B2E1CAF-7E84-411F-9290-838331FE9C95";
 shapes = (
 {
+pos = (18,0);
 ref = l;
 },
 {
-pos = (-145,180);
-ref = slashshortcomb;
+closed = 1;
+nodes = (
+(355,452,l),
+(375,591,l),
+(40,379,l),
+(21,240,l)
+);
 }
 );
-width = 302;
+width = 336;
 }
 );
 unicode = 322;
@@ -58591,5 +58619,5 @@ name = vStem1;
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 63;
+versionMinor = 64;
 }
