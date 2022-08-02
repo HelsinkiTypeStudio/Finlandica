@@ -1,14 +1,13 @@
 ![finlandica main image](https://raw.githubusercontent.com/HelsinkiTypeStudio/Finlandica/master/documentation/finlandica-image-1.png)
 
+The official typeface of Finland designed by [Helsinki Type Studio](https://helsinkitypestudio.com).
 
-# Finlandica
+In the spirit of the Finnish “Jokamiehenoikeus” this typeface is Open Source.
 
-The official typeface of Finland commissioned by the Prime ministers office and Business Finland for the promotion of Finland.
-
-Its strong and compressed shapes embody a traditional virtue in Finnish culture: honest and resilient determination – “Sisu”.
+The strong and compressed shapes embody a traditional virtue in Finnish culture: honest and resilient determination – “Sisu”.
 
 Ink traps like cuts from a blunt ax, makes the typeface reliable in small sizes and gives it character in large headlines. Like the Finnhorse it’s a breed suitable both as riding horse and workhorse.
 
-In the spirit of “Jokamiehenoikeus” this typeface is Open Source.
+The typeface is part of a toolbox of assets for the promotion of Finland and commissioned by the Prime minister's office and Business Finland.
 
 ![finlandica specimen image](https://raw.githubusercontent.com/HelsinkiTypeStudio/Finlandica/master/documentation/finlandica-image-2.png)
