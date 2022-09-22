@@ -1,11 +1,12 @@
 {
-.appVersion = "3129";
+.appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
 "Łłø",
 "ĦLHLHHŁłLl VOLYMYLYÄIATWVO WTŦłøØ
 ooEłouélolonnołolluwłwe",
-"wydajesz pomoże udziału steve urocze trzymasz śmiesz tygodni rano sok sprawdźmy przyjęcie brawo lesie powinni lodu gdybyśmy napijesz jakiejś mieć waszą własną kurewsko wyspę pytam pokaż zaprosić jen środka mózg"
+"wydajesz pomoże udziału steve urocze trzymasz śmiesz tygodni rano sok sprawdźmy przyjęcie brawo lesie powinni lodu gdybyśmy napijesz jakiejś mieć waszą własną kurewsko wyspę pytam pokaż zaprosić jen środka mózg",
+"&"
 );
 axes = (
 {
@@ -49907,7 +49908,7 @@ color = 6;
 glyphname = ampersand;
 kernLeft = ampersand;
 kernRight = ampersand;
-lastChange = "2022-04-29 11:57:51 +0000";
+lastChange = "2022-09-22 14:53:32 +0000";
 layers = (
 {
 layerId = "BE73C5E5-17BA-4B8B-9704-EF1C804AF4CB";
@@ -50006,9 +50007,9 @@ nodes = (
 (476,583,c),
 (503,652,l),
 (442,696,o),
-(396,711,o),
-(303,711,cs),
-(209,711,o),
+(396,712,o),
+(303,712,cs),
+(209,712,o),
 (82,661,o),
 (82,510,cs),
 (82,424,o),
