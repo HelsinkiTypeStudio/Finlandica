@@ -2,7 +2,7 @@
 
 The official typeface of Finland designed by [Helsinki Type Studio](https://helsinkitypestudio.com).
 
-In the spirit of the Finnish “Jokamiehenoikeus” this typeface is Open Source.
+In the spirit of the Finnish “Jokaisenoikeus” this typeface is Open Source.
 
 The strong and compressed shapes embody a traditional virtue in Finnish culture: honest and resilient determination – “Sisu”.
 
